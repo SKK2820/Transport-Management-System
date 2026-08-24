@@ -1,0 +1,15 @@
+Standard Library Modules:
+
+os — for system operations like clearing the screen
+re — for regular expression pattern matching (phone, name, bus number validation)
+sys — for system-specific parameters and exit functionality
+time — for delays and timing operations
+datetime — for date and time handling (booking dates, journey dates, timestamps)
+getpass — for secure password input masking during login
+
+Third-Party Modules:
+
+prettytable — for displaying data in formatted table structures (buses, bookings, reports)
+pyfiglet — for generating ASCII art text (banner displays, login screen)
+mysql.connector — for connecting to and interacting with MySQL database, including error handling
+
