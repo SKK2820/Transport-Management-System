@@ -30,8 +30,8 @@ except ImportError:
 # =============================
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'skkdharsh',
+    'user': '[Secret]',
+    'password': '[Secret]',
     'database': 'tnstc_booking_db'
 }
 
